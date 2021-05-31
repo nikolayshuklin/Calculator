@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="fill"
+    android:padding="5dp"
+    android:columnCount="4"
+
+
+
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/keyClear"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyClear" />
+
+    <Button
+        android:id="@+id/keyPlusMinus"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyPlusMinus" />
+
+    <Button
+        android:id="@+id/keyPercent"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyPercent" />
+
+    <Button
+        android:id="@+id/keyDivision"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyDivision" />
+
+    <Button
+        android:id="@+id/key1"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key1" />
+
+    <Button
+        android:id="@+id/key2"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key2" />
+
+    <Button
+        android:id="@+id/key3"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key3" />
+
+    <Button
+        android:id="@+id/keyMultiplication"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyMultiplication" />
+
+    <Button
+        android:id="@+id/key4"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key4" />
+
+    <Button
+        android:id="@+id/key5"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key5" />
+
+    <Button
+        android:id="@+id/key6"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key6" />
+
+    <Button
+        android:id="@+id/keyMinus"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyMinus" />
+
+    <Button
+        android:id="@+id/key7"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key7" />
+
+    <Button
+        android:id="@+id/key8"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key8" />
+
+    <Button
+        android:id="@+id/key9"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key9" />
+
+    <Button
+        android:id="@+id/keyPlus"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyPlus" />
+
+    <Button
+        android:id="@+id/key0"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/key0" />
+
+    <Button
+        android:id="@+id/keyTwoPoint"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyTwoPoint" />
+
+    <Button
+        android:id="@+id/keyPoint"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyPoint" />
+
+    <Button
+        android:id="@+id/keyResult"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/keyResult" />
+
+
+
+</GridLayout>
